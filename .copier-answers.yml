@@ -1,0 +1,6 @@
+_src_path: /home/runner/work/template-copier-demo/template-copier-demo/templates/jdk
+include_ci: true
+include_sast: true
+java_version: '25'
+repository_name: demo-service-jdk
+
